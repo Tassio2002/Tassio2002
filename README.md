@@ -24,7 +24,6 @@
   <img align="right" alt="dev-gif" height="150" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
                                                                                                                                              
 </div>
-
  ##
                                                                                                                                                   
 <div align="center">
