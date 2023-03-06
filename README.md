@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/Tassio2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tassio2002&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide=issues,contribs"/>
+  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=Tassio2002&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide=issues,contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tassio2002&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
